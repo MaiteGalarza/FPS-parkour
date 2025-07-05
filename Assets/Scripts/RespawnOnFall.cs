@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class RespawnOnFall : MonoBehaviour
+public class RespawOnFall : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
     {
-       
+        
     }
 
     // Update is called once per frame
